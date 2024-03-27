@@ -7,5 +7,5 @@
     Commenty Example
 Comments
 
-echo "Hello World"
+echo "Hello Welcome to Bash Screpting Learing"
 echo "Hello World" 
