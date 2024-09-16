@@ -8,4 +8,4 @@
 Comments
 
 echo "Hello Welcome to Bash Screpting Learing"
-echo "Hello World" 
+echo "Hello Bash Screpting World" 
